@@ -7,7 +7,7 @@
 - Email: tqvinh20804@gmail.com
 - Lớp: K5-L2A
 - Link repo bài làm: https://github.com/gloryTran04/K5-L2A-DAY02-TranQuangVinh-2A202603054-ObjectDetection
-- Link Colab đã chạy: [https://colab.research.google.com/drive/1kN6uCJOwfAbofP36fpPTf6uYUMiVEzQh#scrollTo=6f78b880](https://colab.research.google.com/drive/1kN6uCJOwfAbofP36fpPTf6uYUMiVEzQh?usp=sharing)
+- Link Colab đã chạy: https://colab.research.google.com/drive/1kN6uCJOwfAbofP36fpPTf6uYUMiVEzQh?usp=sharing
 
 ## 2. Schema và mini guideline
 
